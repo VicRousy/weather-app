@@ -1,4 +1,3 @@
-const API_KEY = 'AZ3SVNG3SMPSEBLUK52QL95EK';
 
 // Get DOM elements
 const form = document.getElementById('weather-form');
